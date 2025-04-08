@@ -132,9 +132,21 @@
                 "Texture"
             ]
         },
-        "20": {
+               "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
             "liveries": [
+                {
+                    "name": "Death From Above",
+                    "texture": [
+                        "https://github.com/Hydra777777/USAF/blob/eb86462d8f517dadf20864cbca91ff51ea040443/Textures/Death%20From%20Above.png"
+                    ]
+                },
+                {
+                    "name": "72nd Annexation Squadron",
+                    "texture": [
+                        "https://github.com/Hydra777777/USAF/blob/eb86462d8f517dadf20864cbca91ff51ea040443/Textures/72nd_Annexation_Squadron.png"
+                    ]
+                }
             ],
             "labels": [
                 "Texture"
