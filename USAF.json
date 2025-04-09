@@ -662,6 +662,13 @@
         "247": {
             "name": "Bombardier Dash 8 Q400",
             "liveries": [
+                {
+                    "name": "E-9 Widget",                                                         
+                    "texture": [
+                        "https://i.ibb.co/G3Mb8n7k/team-Target-1.png"       
+                    ],
+                    "credits": "cybernetics_hydra72"                                                         
+                }
             ],
             "labels": [
                 "Texture"
