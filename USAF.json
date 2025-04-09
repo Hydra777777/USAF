@@ -791,6 +791,20 @@
             ],
             "labels": [
                 "Texture"
+        },
+        "247": {
+            "name": "Paraglider",
+            "liveries": [
+                {
+                    "name": "USAF Ejection",                                                         
+                    "texture": [
+                        "https://i.ibb.co/twhKH47C/USAF-ejection.png"       
+                    ],
+                    "credits": "cybernetics_hydra72"                                                         
+                }
+            ],
+            "labels": [
+                "Texture"
             ]
         }
     }
