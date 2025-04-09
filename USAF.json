@@ -610,6 +610,13 @@
         "5193": {
             "name": "Boeing b747-8I",
             "liveries": [
+                 {
+                    "name": "E-4 Nightwatch",
+                    "texture": [
+                        "https://i.ibb.co/ZpLpcXFn/US-Air-Force-Doomsday-747-8.png"
+                    ],
+                    "credits": "luca b"
+                }
             ],
             "labels": [
                 "Texture",
