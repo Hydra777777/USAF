@@ -654,6 +654,13 @@
         "5229": {
             "name": "Lockheed Martin F-35B Lightning II",
             "liveries": [
+                {
+                    "name": "Mustang 01",
+                    "texture": [
+                        "https://i.ibb.co/p6RCLrwp/1.png"
+                    ],
+                    "credits": "cybernetics_hydra72"
+                }
             ],
             "labels": [
                 "Texture"
