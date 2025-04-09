@@ -198,6 +198,13 @@
         "50": {
             "name": "Paraglider",
             "liveries": [
+             {
+                    "name": "USAF Ejection",                                                         
+                    "texture": [
+                        "https://i.ibb.co/twhKH47C/USAF-ejection.png"       
+                    ],
+                    "credits": "cybernetics_hydra72"                                                         
+                }
             ],
             "labels": [
                 "Texture"
@@ -785,20 +792,6 @@
                     "name": "E-9 Widget",                                                         
                     "texture": [
                         "https://i.ibb.co/5xWQpVxL/E-9-3.png"       
-                    ],
-                    "credits": "cybernetics_hydra72"                                                         
-                }
-            ],
-            "labels": [
-                "Texture"
-        },
-        "247": {
-            "name": "Paraglider",
-            "liveries": [
-                {
-                    "name": "USAF Ejection",                                                         
-                    "texture": [
-                        "https://i.ibb.co/twhKH47C/USAF-ejection.png"       
                     ],
                     "credits": "cybernetics_hydra72"                                                         
                 }
