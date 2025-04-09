@@ -658,6 +658,14 @@
             "labels": [
                 "Texture"
             ]
+        },
+        "247": {
+            "name": "Bombardier Dash 8 Q400",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
         }
     }
 }
