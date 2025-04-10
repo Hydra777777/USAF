@@ -589,6 +589,13 @@
         "2864": {
             "name": "Leonardo - AugustaWestland AW609",
             "liveries": [
+                 {
+                    "name": "SAR Aircraft",
+                    "texture": [
+                        "https://i.ibb.co/r28Dn1Yx/Agusta-Westland-AW609-11.png"
+                    ],
+                    "credits": "cybernetics_hydra72"
+                }
             ],
             "labels": [
                 "Texture"
@@ -598,13 +605,6 @@
         "2852": {
             "name": "Cameron R-650 Rozière Balloon",
             "liveries": [
-                 {
-                    "name": "SAR Aircraft",
-                    "texture": [
-                        "https://i.ibb.co/r28Dn1Yx/Agusta-Westland-AW609-11.png"
-                    ],
-                    "credits": "cybernetics_hydra72"
-                }
             ],
             "labels": [
                 "Texture"
