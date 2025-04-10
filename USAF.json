@@ -566,6 +566,13 @@
         "27": {
             "name": "McDonell Douglas - Boeing F/A-18F Super Hornet",
             "liveries": [
+                 {
+                    "name": "Viper 1",
+                    "texture": [
+                        "https://i.ibb.co/GvGpdw7R/FA-18-22.png"
+                    ],
+                    "credits": "cybernetics_hydra72"
+                }
             ],
             "labels": [
                 "Texture"
