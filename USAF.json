@@ -142,9 +142,15 @@
                     ]
                 },
                 {
-                    "name": "72nd Annexation Squadron",
+                    "name": "72nd Annexation Wing",
                     "texture": [
                         "https://i.ibb.co/7dggMDHY/72nd-Annexation-Squadron.png"
+                    ]
+                },
+                {
+                    "name": "14th Bombing Wing",
+                    "texture": [
+                        "https://i.ibb.co/HDg5rYqt/Bomber-Concorde-37.png"
                     ]
                 }
             ],
