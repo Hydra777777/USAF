@@ -567,12 +567,40 @@
             "name": "McDonell Douglas - Boeing F/A-18F Super Hornet",
             "liveries": [
                  {
-                    "name": "Viper 1",
+                    "name": "Viper 01",
                     "texture": [
-                        "https://i.ibb.co/GvGpdw7R/FA-18-22.png"
+                        "https://i.ibb.co/GfDxQnns/1.png"
                     ],
                     "credits": "cybernetics_hydra72"
-                }
+                },
+                {
+                    "name": "Viper 02",
+                    "texture": [
+                        "https://i.ibb.co/rfRH13md/2.png"
+                    ],
+                    "credits": "cybernetics_hydra72"
+                },
+                {
+                    "name": "Viper 03",
+                    "texture": [
+                        "https://i.ibb.co/yc2F1gjK/3.png"
+                    ],
+                    "credits": "cybernetics_hydra72"
+                },
+                {
+                    "name": "Viper 04",
+                    "texture": [
+                        "https://i.ibb.co/Swp7LqMn/4.png"
+                    ],
+                    "credits": "cybernetics_hydra72"
+                },
+                {
+                    "name": "Viper 05",
+                    "texture": [
+                        "https://i.ibb.co/G4yMm7pd/5.png"
+                    ],
+                    "credits": "cybernetics_hydra72"
+                },
             ],
             "labels": [
                 "Texture"
