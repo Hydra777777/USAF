@@ -664,6 +664,16 @@
                         "https://i.ibb.co/ZpLpcXFn/US-Air-Force-Doomsday-747-8.png"
                     ],
                     "credits": "luca b"
+                },
+                {
+                    "name": "Ghost Of Denver",
+                    "texture": [
+                        "https://i.ibb.co/gZpPDHVZ/Add-a-heading-9.png"
+                    ],
+                     "Wing texture": [
+                        "https://i.ibb.co/d4GTQNg9/Add-a-heading-8.png"
+                    ],
+                    "credits": "cybernetics_hydra72"
                 }
             ],
             "labels": [
