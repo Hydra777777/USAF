@@ -452,6 +452,20 @@
         "7": {
             "name": "General Dynamics F16 Fighting Falcon",
             "liveries": [
+                {
+                    "name": "33rd Wing",
+                    "texture": [
+                        "https://i.ibb.co/ynfFjRbJ/USAF-33-TH.jpg"
+                    ],
+                    "credits": "aatw_001"
+                },
+                {
+                    "name": "21at Wing",
+                    "texture": [
+                        "https://i.ibb.co/LD1mp4ff/HC-livery-done.jpg"
+                    ],
+                    "credits": "aatw_001"
+                }
             ],
             "labels": [
                 "Texture"
