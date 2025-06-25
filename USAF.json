@@ -71,6 +71,13 @@
         "10": {
             "name": "Airbus a380-800",
             "liveries": [
+                {
+                    "name": "WEEKSIES",
+                    "texture": [
+                        "https://i.ibb.co/67HKWdbY/weeksies-FINAL.png"
+                    ],
+                    "credits": "aatw_001"
+                }
             ],
             "labels": [
                 "Specular shader",
@@ -204,13 +211,6 @@
         "50": {
             "name": "Paraglider",
             "liveries": [
-             {
-                    "name": "USAF Ejection",                                                         
-                    "texture": [
-                        "https://i.ibb.co/G3BCBYrX/USAF-ejection-1.png"       
-                    ],
-                    "credits": "cybernetics_hydra72"                                                         
-                }
             ],
             "labels": [
                 "Texture"
