@@ -705,6 +705,14 @@
         "2857": {
             "name": "Lokheed Martin F22 Raptor",
             "liveries": [
+                {
+                    "name": "21st Wing",
+                    "texture": [
+                        "https://i.ibb.co/Y4HHv41k/21st-f22-21.png"
+                    ],     
+                    "credits": "cybernetics_hydra72"
+                }
+                
             ],
             "labels": [
                 "Texture",
