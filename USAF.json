@@ -681,6 +681,13 @@
                     "credits": "luca b"
                 },
                 {
+                    "name": "KORPS",
+                    "texture": [
+                        "https://i.ibb.co/jPNWzmmN/KORPS-final-final.png"
+                    ],
+                    "credits": "cybernetics_hydra72"
+                },
+                {
                     "name": "Ghost Of Denver",
                     "texture": [
                         "https://i.ibb.co/d4GTQNg9/Add-a-heading-8.png",
