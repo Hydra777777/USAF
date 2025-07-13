@@ -74,6 +74,7 @@
                 {
                     "name": "WEEKSIES",
                     "texture": [
+                        "https://i.ibb.co/67HKWdbY/weeksies-FINAL.png",
                         "https://geo-fs.com/models/aircraft/premium/a380/specular.jpg",
                         "https://i.ibb.co/67HKWdbY/weeksies-FINAL.png"
                     ],
@@ -81,6 +82,7 @@
                 }
             ],
             "labels": [
+                "Normal map",
                 "Specular shader",
                 "Texture"
             ]
