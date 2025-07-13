@@ -491,6 +491,14 @@
         "25": {
             "name": "Boeing b777-300ER",
             "liveries": [
+                {
+                    "name": "60th Wing",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/speculars/ersf.png",
+                        "https://i.ibb.co/4RPjbPCM/Texture-777er-2.png"
+                    ],
+                    "credits": "cybernetics_hydra72"
+                }
             ],
             "labels": [
                 "Specular shader",
