@@ -31,6 +31,13 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
+                {
+                    "name": "Operation Saving Grace",
+                    "texture": [
+                        "https://i.ibb.co/rGY47Tm8/USAF-OP-SAVING-GRACE-737-700-4.png"
+                    ],
+                    "credits": "cybernetics_hydra72"
+                }
             ],
             "labels": [
                 "Specular shader",
@@ -748,13 +755,6 @@
         "5203": {
             "name": "Boeing b737-600",
             "liveries": [
-                {
-                    "name": "Operation Saving Grace",
-                    "texture": [
-                        "https://i.ibb.co/rGY47Tm8/USAF-OP-SAVING-GRACE-737-700-4.png"
-                    ],
-                    "credits": "cybernetics_hydra72"
-                }
             ],
             "labels": [
                 "Texture"
