@@ -747,7 +747,14 @@
         },
         "5203": {
             "name": "Boeing b737-600",
-            "liveries":[
+            "liveries": [
+                {
+                    "name": "Operation Saving Grace",
+                    "texture": [
+                        "https://i.ibb.co/rGY47Tm8/USAF-OP-SAVING-GRACE-737-700-4.png"
+                    ],
+                    "credits": "cybernetics_hydra72"
+                }
             ],
             "labels": [
                 "Texture"
@@ -928,6 +935,13 @@
                     "name": "Mustang 25",
                     "texture": [
                         "https://i.ibb.co/PZB9TzBC/25.png"
+                    ],
+                    "credits": "cybernetics_hydra72"
+                },
+                {
+                    "name": "525th Wing",
+                    "texture": [
+                        "https://i.ibb.co/tpmTm7BF/F35-B-525th-15.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
