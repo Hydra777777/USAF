@@ -172,6 +172,12 @@
                     "texture": [
                         "https://i.ibb.co/HDg5rYqt/Bomber-Concorde-37.png"
                     ]
+                },
+                {
+                    "name": "33rd Training Wing",
+                    "texture": [
+                        "https://i.ibb.co/2Y0XrwcG/Concorde-33rd-Wing-17.png"
+                    ]
                 }
             ],
             "labels": [
