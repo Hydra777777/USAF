@@ -1,7 +1,7 @@
 {
-    "name": "Biblical Studies Turning points",
-    "color": "white",
-    "bgcolor": "purple",
+    "name": "USAF - MRP",
+    "color": "Red",
+    "bgcolor": "Blue",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
