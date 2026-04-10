@@ -32,7 +32,7 @@
             "name": "Boeing b737-700",
             "liveries": [
                 {
-                    "name": "Operation Saving Grace",
+                    "name": "Operation Saving Grace [OLD]",
                     "texture": [
                         "https://www.geo-fs.com/models/aircraft/premium/737_700/normal.jpg",
                         "https://www.geo-fs.com/models/aircraft/premium/737_700/specular.jpg",
@@ -82,7 +82,7 @@
             "name": "Airbus a380-800",
             "liveries": [
                 {
-                    "name": "WEEKSIES",
+                    "name": "WEEKSIES [OLD]",
                     "texture": [
                         "https://www.geo-fs.com/models/aircraft/premium/a380/normal.jpg",
                         "https://geo-fs.com/models/aircraft/premium/a380/specular.jpg",
@@ -156,25 +156,25 @@
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
             "liveries": [
                 {
-                    "name": "Death From Above",
+                    "name": "Death From Above [OLD]",
                     "texture": [
                         "https://i.ibb.co/CprjvRZy/concorde-final.png"
                     ]
                 },
                 {
-                    "name": "72nd Annexation Wing",
+                    "name": "72nd Annexation Wing [OLD]",
                     "texture": [
                         "https://i.ibb.co/7dggMDHY/72nd-Annexation-Squadron.png"
                     ]
                 },
                 {
-                    "name": "14th Bombing Wing",
+                    "name": "14th Bombing Wing [OLD]",
                     "texture": [
                         "https://i.ibb.co/HDg5rYqt/Bomber-Concorde-37.png"
                     ]
                 },
                 {
-                    "name": "33rd Training Wing",
+                    "name": "33rd Training Wing [OLD]",
                     "texture": [
                         "https://i.ibb.co/2Y0XrwcG/Concorde-33rd-Wing-17.png"
                     ]
@@ -472,21 +472,21 @@
             "name": "General Dynamics F16 Fighting Falcon",
             "liveries": [
                 {
-                    "name": "33rd Wing",
+                    "name": "33rd Wing [OLD]",
                     "texture": [
                         "https://i.ibb.co/ynfFjRbJ/USAF-33-TH.jpg"
                     ],
                     "credits": "aatw_001"
                 },
                 {
-                    "name": "21at Wing",
+                    "name": "21at Wing [OLD]",
                     "texture": [
                         "https://i.ibb.co/LD1mp4ff/HC-livery-done.jpg"
                     ],
                     "credits": "aatw_001"
                 },
                 {
-                    "name": "Ospery's F16",
+                    "name": "Ospery's F16 [OLD]",
                     "texture": [
                         "https://i.ibb.co/GQshmhH6/Osprey-s-F-16-32.png"
                     ],
@@ -506,7 +506,7 @@
             ]
         },
         "4743": {
-            "name": "Boeing b757-300",
+            "name": "Boeing b757-300 [OLD]",
             "liveries": [
             ],
             "labels": [
@@ -517,7 +517,7 @@
             "name": "Boeing b777-300ER",
             "liveries": [
                 {
-                    "name": "60th Wing",
+                    "name": "60th Wing [OLD]" ,
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/speculars/ersf.png",
                         "https://i.ibb.co/4RPjbPCM/Texture-777er-2.png"
@@ -621,35 +621,35 @@
             "name": "McDonell Douglas - Boeing F/A-18F Super Hornet",
             "liveries": [
                  {
-                    "name": "Viper 01",
+                    "name": "Viper 01 [OLD]",
                     "texture": [
                         "https://i.ibb.co/GfDxQnns/1.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Viper 02",
+                    "name": "Viper 02 [OLD]",
                     "texture": [
                         "https://i.ibb.co/rfRH13md/2.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Viper 03",
+                    "name": "Viper 03 [OLD]",
                     "texture": [
                         "https://i.ibb.co/yc2F1gjK/3.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Viper 04",
+                    "name": "Viper 04 [OLD]",
                     "texture": [
                         "https://i.ibb.co/Swp7LqMn/4.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Viper 05",
+                    "name": "Viper 05 [OLD]",
                     "texture": [
                         "https://i.ibb.co/G4yMm7pd/5.png"
                     ],
@@ -672,7 +672,7 @@
             "name": "Leonardo - AugustaWestland AW609",
             "liveries": [
                  {
-                    "name": "101st Wing",
+                    "name": "101st Wing [OLD]",
                     "texture": [
                         "https://i.ibb.co/r28Dn1Yx/Agusta-Westland-AW609-11.png"
                     ],
@@ -714,14 +714,14 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "KORPS",
+                    "name": "KORPS [OLD]",
                     "texture": [
                         "https://i.ibb.co/C5qXKMRb/KORPS-cic-updated.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Ghost Of Denver",
+                    "name": "Ghost Of Denver [OLD]",
                     "texture": [
                         "https://i.ibb.co/d4GTQNg9/Add-a-heading-8.png",
                         "https://i.ibb.co/gZpPDHVZ/Add-a-heading-9.png"
@@ -739,7 +739,7 @@
             "name": "Lokheed Martin F22 Raptor",
             "liveries": [
                 {
-                    "name": "21st Wing",
+                    "name": "21st Wing [OLD]",
                     "texture": [
                         "https://i.ibb.co/Y4HHv41k/21st-f22-21.png"
                     ],     
@@ -780,182 +780,182 @@
             "name": "Lockheed Martin F-35B Lightning II",
             "liveries": [
                 {
-                    "name": "Mustang 01",
+                    "name": "Mustang 01 [OLD]",
                     "texture": [
                         "https://i.ibb.co/p6RCLrwp/1.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 02",
+                    "name": "Mustang 02 [OLD]",
                     "texture": [
                         "https://i.ibb.co/y2Rzc05/2.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                  {
-                    "name": "Mustang 03",
+                    "name": "Mustang 03 [OLD]",
                     "texture": [
                         "https://i.ibb.co/RGPRPT3f/3.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                   {
-                    "name": "Mustang 04",
+                    "name": "Mustang 04 [OLD]",
                     "texture": [
                         "https://i.ibb.co/LDHj7b9b/4.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 05",
+                    "name": "Mustang 05 [OLD]",
                     "texture": [
                         "https://i.ibb.co/FLpwKyz9/5.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                  {
-                    "name": "Mustang 06",
+                    "name": "Mustang 06 [OLD]",
                     "texture": [
                         "https://i.ibb.co/whMWvjNk/6.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 07",
+                    "name": "Mustang 07 [OLD]",
                     "texture": [
                         "https://i.ibb.co/Csbfvr1m/7.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 08",
+                    "name": "Mustang 08 [OLD]",
                     "texture": [
                         "https://i.ibb.co/4ZFhTBVm/8.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 09",
+                    "name": "Mustang 09 [OLD]",
                     "texture": [
                         "https://i.ibb.co/9mSFvmGH/9.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 10",
+                    "name": "Mustang 10 [OLD]",
                     "texture": [
                         "https://i.ibb.co/dszfTy1F/10.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 11",
+                    "name": "Mustang 11 [OLD]",
                     "texture": [
                         "https://i.ibb.co/N25xQBxm/11.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 12",
+                    "name": "Mustang 12[OLD]",
                     "texture": [
                         "https://i.ibb.co/1tVpjzyW/12.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 13",
+                    "name": "Mustang 13[OLD]",
                     "texture": [
                         "https://i.ibb.co/B1HyJWC/13.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 14",
+                    "name": "Mustang 14[OLD]",
                     "texture": [
                         "https://i.ibb.co/whbvwW6M/14.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 15",
+                    "name": "Mustang 15[OLD]",
                     "texture": [
                         "https://i.ibb.co/vxr3cytc/15.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 16",
+                    "name": "Mustang 16[OLD]",
                     "texture": [
                         "https://i.ibb.co/k6ShcT7R/16.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 17",
+                    "name": "Mustang 17[OLD]",
                     "texture": [
                         "https://i.ibb.co/GQrS3Gp3/17.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 18",
+                    "name": "Mustang 18[OLD]",
                     "texture": [
                         "https://i.ibb.co/8n7Mv495/18.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 19",
+                    "name": "Mustang 19[OLD]",
                     "texture": [
                         "https://i.ibb.co/gZvtnJ3X/19.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 20",
+                    "name": "Mustang 20[OLD]",
                     "texture": [
                         "https://i.ibb.co/Gfz0hFYZ/20.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 21",
+                    "name": "Mustang 21[OLD]",
                     "texture": [
                         "https://i.ibb.co/tpzmR4zj/21.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 22",
+                    "name": "Mustang 22[OLD]",
                     "texture": [
                         "https://i.ibb.co/svSknQXP/22.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 23",
+                    "name": "Mustang 23[OLD]",
                     "texture": [
                         "https://i.ibb.co/NgjsBNtY/23.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 24",
+                    "name": "Mustang 24[OLD]",
                     "texture": [
                         "https://i.ibb.co/93NqM56g/24.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "Mustang 25",
+                    "name": "Mustang 25[OLD]",
                     "texture": [
                         "https://i.ibb.co/PZB9TzBC/25.png"
                     ],
                     "credits": "cybernetics_hydra72"
                 },
                 {
-                    "name": "525th Wing",
+                    "name": "525th Wing[OLD]",
                     "texture": [
                         "https://i.ibb.co/tpmTm7BF/F35-B-525th-15.png"
                     ],
@@ -977,7 +977,7 @@
             "name": "Bombardier Dash 8 Q400",
             "liveries": [
                 {
-                    "name": "E-9 Widget",                                                         
+                    "name": "E-9 Widget[OLD]",                                                         
                     "texture": [
                         "https://i.ibb.co/5xWQpVxL/E-9-3.png"       
                     ],
