@@ -987,6 +987,34 @@
             "labels": [
                 "Texture"
             ]
+        },
+          "5431": {
+            "index": [
+                0
+            ],
+            "parts": [
+                0
+            ],
+            "mp": [
+                {
+                    "modelIndex": 0,
+                    "textureIndex": 0
+                }
+            ],
+            "liveries": [
+                {
+                    "name": "121th Redtail 7 years",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Hydra777777/USAF/refs/heads/main/liveries/yf23-base-v11.png"
+                    ],
+                    "credits": "cybernetics_hydra72"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ],
+            "logo": true,
+            "name": "Northrop YF-23"
         }
     }
 }
